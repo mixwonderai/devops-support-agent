@@ -114,3 +114,4 @@ Then check `audit.log` to confirm everything was recorded.
 - Keyword runbook search, not semantic; swap in embeddings if your runbook set grows large.
 - One conversation per process; no persistence between runs.
 - The agent diagnoses and suggests. It is not an auto-remediation system, and it shouldn't become one without strong rollback and review.
+
